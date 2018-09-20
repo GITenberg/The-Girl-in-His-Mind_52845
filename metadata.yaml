@@ -1,0 +1,42 @@
+_repo: The-Girl-in-His-Mind_52845
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Gaughan, Jack
+    aliases:
+    - Gaughan
+    - Gaughan, John Brian Francis
+    birthdate: 1930
+    deathdate: 1985
+    gutenberg_agent_id: '35615'
+    url: http://www.gutenberg.org/2009/agents/35615
+    wikipedia: https://en.wikipedia.org/wiki/Jack_Gaughan
+  - agent_name: Pederson, John
+    gutenberg_agent_id: '47037'
+    url: http://www.gutenberg.org/2009/agents/47037
+creator:
+  author:
+    agent_name: Young, Robert F.
+    alias: Young, Robert Franklin
+    birthdate: 1915
+    deathdate: 1986
+    gutenberg_agent_id: '25767'
+    url: http://www.gutenberg.org/2009/agents/25767
+    wikipedia: http://en.wikipedia.org/wiki/Robert_F._Young
+description: ''
+gutenberg_issued: '2016-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52845'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Psychological fiction'
+- !lcc 'PS'
+- !lcsh 'Guilt -- Fiction'
+- GITenberg
+title: The Girl in His Mind
+url: http://www.gutenberg.org/ebooks/52845
